@@ -5,8 +5,6 @@ permalink: /Chinese/
 author_profile: true
 ---
 
-# 中文
-
 我目前的研究方向是在2.5D/3D 芯粒系统下的先进封装算法。
 
 我目前是[东南大学](https://www.seu.edu.cn/)集成电路工程专业的硕士生，于 2025 年秋季入学，师从[彭亚锐教授](https://ic.seu.edu.cn/pyr/main.htm)。
