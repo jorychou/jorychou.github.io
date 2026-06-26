@@ -1,6 +1,6 @@
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "xinbo Zhou (周鑫博)"
+title                    : "Xinbo Zhou (周鑫博)"
 title_separator          : "-"
 name                     : &name "Zhou xinbo"
 description              : &description "Zhou xinbo's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -15,7 +15,7 @@ repository               : "jorychou/jorychou.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "xinbo Zhou"
+  name             : "Xinbo Zhou"
   pronouns         : # example: "she/her"  
   bio              : "Master Student, IC Engineering, SEU"
   location         : "WuXi, China"
